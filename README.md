@@ -1,5 +1,5 @@
 Esse projeto foi criado pelo curso React do zero a maestria, do canal hora de codar.
-Copiei o memo para aprendizado da linguagem react.
+Copiei o mesmo para aprendizado da lib react.
 
 link do curso na udemy: https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/
 
