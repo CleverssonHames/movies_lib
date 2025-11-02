@@ -1,8 +1,3 @@
-Esse projeto foi criado pelo curso React do zero a maestria, do canal hora de codar.
-Copiei o mesmo para aprendizado da lib react.
-
-link do curso na udemy: https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
